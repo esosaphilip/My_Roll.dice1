@@ -8,4 +8,4 @@ Android 9.+ SDK or newer.
 
 ### Screenshot
 
-![Dice](Screenshot_20220906-140855_Roll Dice.jpg)
+![Dice](<https://myoctocat.com/assets/images/Screenshot_20220906-140855_Roll> Dice.jpg)
