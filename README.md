@@ -9,5 +9,6 @@
 
 ### Screenshot
 ---
+![Dice][logo]
 
-![Dice](esosaphilip/My_Roll.dice1/Image/Screenshot_20220906-140855_Roll Dice.jpg)
+[logo]:https://github.com/esosaphilip/My_Roll.dice1/blob/master/Screenshot_20220906-140855_Roll%20Dice.jpg "Logo Title Text 2"
